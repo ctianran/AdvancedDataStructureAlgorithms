@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6693426c-abe5-498a-b793-d4757d8b54ba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/class9/ShortestPosSubArraySumGreaterThanTarget.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumberOfSubArraySumEqualTarget.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NumberOfSubArraySumEqualTarget.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/class9/NumberOfSubArraySumEqualTarget.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="424">
@@ -61,6 +61,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShortestPosSubArraySumGreaterThanTarget.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/class9/ShortestPosSubArraySumGreaterThanTarget.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="26" column="46" lean-forward="false" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -89,6 +99,7 @@
         <option value="$PROJECT_DIR$/src/class9/ShortestSubArraySumEqualTarget.java" />
         <option value="$PROJECT_DIR$/src/class9/LongestSubArraySumEqualTarget.java" />
         <option value="$PROJECT_DIR$/src/class9/NumberOfSubArraySumEqualTarget.java" />
+        <option value="$PROJECT_DIR$/src/class9/ShortestPosSubArraySumGreaterThanTarget.java" />
       </list>
     </option>
   </component>
@@ -99,8 +110,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1966" />
-    <option name="y" value="53" />
+    <option name="x" value="2264" />
+    <option name="y" value="61" />
     <option name="width" value="1575" />
     <option name="height" value="1027" />
   </component>
@@ -586,15 +597,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500877476300</updated>
-      <workItem from="1500877482374" duration="5422000" />
+      <workItem from="1500877482374" duration="7099000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5422000" />
+    <option name="totallyTimeSpent" value="7099000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1966" y="53" width="1575" height="1027" extended-state="0" />
+    <frame x="2264" y="61" width="1575" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -678,6 +689,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class9/ShortestPosSubArraySumGreaterThanTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="26" column="46" lean-forward="false" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
