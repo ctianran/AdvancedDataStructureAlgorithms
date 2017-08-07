@@ -7,6 +7,6 @@ import java.util.List;
  */
 public class MinimumDifferenceInKSortedArray {
 	public int minDiff(List<List<Integer>> input) {
-		
+		return 0;
 	}
 }
