@@ -46,7 +46,6 @@ public class InorderIteratorII {
 		n5.parent = n3;
 
 		InorderIteratorII iter = new InorderIteratorII();
-
 		TreeNode cur = iter.firstNode(n1);
 		while(cur != null) {
 			System.out.println(cur.val);
